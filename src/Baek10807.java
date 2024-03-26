@@ -1,8 +1,7 @@
-import java.io.*;
+import java.io.IOException;
 import java.util.Scanner;
-import java.util.StringTokenizer;
 
-public class Main {
+public class Baek10807 {
 
     public static void main(String[] args) throws IOException {
 
